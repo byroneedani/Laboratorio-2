@@ -1,0 +1,113 @@
+body{
+	background-image:url(imas/imagen0.jpg);
+	font-size:30px;
+	color:WhiteSmoke;
+	font-family:Comic Sans MS;
+}
+
+#seccion1{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:brown;
+	background-color:Orange;
+	padding: 30px;
+	margin: 10px;
+	border: solid brown
+}
+
+#seccion2{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:LightSkyBlue;
+	background-color:DarkBlue;
+	padding: 30px;
+	margin: 10px;
+	border: solid green;
+}
+
+#seccion3{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:LightSkyBlue;
+	background-color:DarkBlue;
+	padding: 30px;
+	margin: 10px;
+	border: solid green;
+}
+
+#seccion4{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:LightSkyBlue;
+	background-color:DarkGreen;
+	padding: 30px;
+	margin: 10px;
+	border: solid white;
+}
+
+#seccion5{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:LightSkyBlue;
+	background-color:DarkGreen;
+	padding: 30px;
+	margin: 10px;
+	border: solid white;
+}
+
+#seccion6{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:White;
+	background-color:Red;
+	padding: 30px;
+	margin: 10px;
+	border: solid black;
+}
+
+footer{
+	text-align:center;
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:White;
+	background-color:rebeccapurple;
+	padding: 30px;
+	margin: 10px;
+	border: solid blue;
+}
+	
+
+#mimarquesina{
+	font-family:Comic Sans MS;
+	color:#E86F68;
+
+}
+
+#cuadro{
+	background-color:Black;
+	font:Comic Sans MS;
+	opacity:0.5;
+	
+}
+
+aside { 
+	display: block;
+	font-family:Comic Sans MS;
+	font-size:20px;
+	color:White;
+	background-color:rebeccapurple;
+	padding: 10px;
+	margin: 10px;
+	width: 20%;
+	position: relative;
+	left: 70%;
+	top: 200;
+	border: solid blue;
+
+  }
